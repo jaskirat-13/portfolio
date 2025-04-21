@@ -23,13 +23,13 @@ export default function About() {
           viewport={{ once: true }}
         >
           <motion.div
-            className="aspect-square rounded-2xl overflow-hidden"
+            className="flex justify-center"
             variants={fadeInUp}
           >
             <img
               src="/jaskiratProfile.jpg"
               alt="Jaskirat Singh"
-              className="w-full h-full object-cover rounded-2xl"
+              className="w-80 h-80 object-cover rounded-full shadow-lg"
             />
           </motion.div>
 

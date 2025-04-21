@@ -6,8 +6,8 @@ export const projectsData: ProjectItem[] = [
     description: "An e-commerce platform for Himachali products",
     image: "kullu.png",
     tech: ["React.js", "Node.js", "MongoDB", "Express.js"],
-    github: "https://github.com/jaskirat09/KulluCreations",
-    live: "https://kullucreations.vercel.app",
+    github: "https://github.com/jaskirat-13/kullu_creations",
+    live: "https://react-project-phi-orcin.vercel.app/",
     details: {
       problem: "Local Himachali products lacked digital presence and accessibility",
       solution: "Developed a full-stack e-commerce platform to connect local artisans with customers",
@@ -25,7 +25,7 @@ export const projectsData: ProjectItem[] = [
     description: "A real-time disaster alert and awareness platform",
     image: "disaster.png",
     tech: ["Node.js", "Google Maps API", "NLP", "Gmail API"],
-    github: "https://github.com/jaskirat09/DisasterSense",
+    github: "https://github.com/jaskirat-13/disaster_mng",
     live: "",
     details: {
       problem: "People remain unaware of flood-prone or waterlogged areas in real time",
@@ -45,7 +45,7 @@ export const projectsData: ProjectItem[] = [
   image: "fitfusion.png",
   tech: ["HTML", "CSS", "JavaScript"],
   github: "https://github.com/jaskirat-13/FITNESS-WEBSITE",
-  live: "",
+  live: "https://fitness-website-hvsi.onrender.com/",
   details: {
     problem: "Gyms and fitness centers need a professional online presence to attract members",
     solution: "Created a modern landing page showcasing gym facilities, plans, and features",
@@ -63,7 +63,7 @@ export const projectsData: ProjectItem[] = [
   description: "A GUI-based scientific calculator built using Python and Tkinter.",
   image: "calculator.jpg",
   tech: ["Python", "Tkinter", "Math Module"],
-  github: "https://github.com/jaskirat-13/Scientific-Calculator",
+  github: "https://github.com/jaskirat-13/scienCalculator/",
   live: "",
   details: {
     problem: "Students and professionals need a quick tool to perform both basic and scientific calculations.",
