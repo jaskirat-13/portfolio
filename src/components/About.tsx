@@ -27,7 +27,7 @@ export default function About() {
             variants={fadeInUp}
           >
             <img
-              src="/jaskiratProfile.jpg"
+              src="/jaskirat.jpg"
               alt="Jaskirat Singh"
               className="w-80 h-80 object-cover rounded-full shadow-lg"
             />
